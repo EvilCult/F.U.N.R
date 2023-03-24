@@ -303,4 +303,5 @@ MySQL/log/*
 Nginx/letsencrypt/*
 !Nginx/letsencrypt/.gitkeep
 Nginx/log/*
-!Nginx/log/App/.gitkeep
+!Nginx/log/.gitkeep
+!Nginx/log/App
